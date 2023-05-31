@@ -1,0 +1,11 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\views",
+    "\\views\\layouts",
+    "\\views\\users"
+  ],
+  "SelectedNode": "\\views\\users\\signup.php",
+  "PreviewInSolutionExplorer": false
+}
